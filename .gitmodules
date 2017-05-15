@@ -1,0 +1,18 @@
+[submodule "contract"]
+	path = contract
+	url = git@github.com:lokkit/contract.git
+[submodule "ethereum-docker"]
+	path = ethereum-docker
+	url = git@github.com:lokkit/ethereum-docker.git
+[submodule "go-ethereum"]
+	path = go-ethereum
+	url = git@github.com:lokkit/go-ethereum.git
+[submodule "lokkit-status-go"]
+	path = lokkit-status-go
+	url = git@github.com:lokkit/lokkit-status-go.git
+[submodule "android-app"]
+	path = android-app
+	url = git@github.com:lokkit/android-app.git
+[submodule "doorman"]
+	path = doorman
+	url = git@github.com:lokkit/doorman.git
