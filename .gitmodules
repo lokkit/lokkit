@@ -16,3 +16,6 @@
 [submodule "doorman"]
 	path = doorman
 	url = git@github.com:lokkit/doorman.git
+[submodule "logo"]
+	path = logo
+	url = git@github.com:lokkit/logo.git
