@@ -19,3 +19,6 @@
 [submodule "logo"]
 	path = logo
 	url = git@github.com:lokkit/logo.git
+[submodule "webapp"]
+	path = webapp
+	url = git@github.com:lokkit/webapp.git
