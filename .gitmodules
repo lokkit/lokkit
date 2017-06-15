@@ -22,3 +22,6 @@
 [submodule "webapp"]
 	path = webapp
 	url = git@github.com:lokkit/webapp.git
+[submodule "chain"]
+	path = chain
+	url = git@github.com:lokkit/chain.git
