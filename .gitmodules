@@ -25,3 +25,12 @@
 [submodule "chain"]
 	path = chain
 	url = git@github.com:lokkit/chain.git
+[submodule "ethjsonrpc"]
+	path = ethjsonrpc
+	url = git@github.com:lokkit/ethjsonrpc.git
+[submodule "hydrant"]
+	path = hydrant
+	url = git@github.com:lokkit/hydrant.git
+[submodule "bda-dokumentation"]
+	path = bda-dokumentation
+	url = git@github.com:lokkit/bda-dokumentation.git
